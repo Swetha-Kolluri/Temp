@@ -1,6 +1,6 @@
 ## Postitive Deviance
 
-### Reference Articles and Blogs
+### Articles and Blogs
 
 - [Data Powered Positive Deviance UNDP Blogs](https://dppd.medium.com)
 - [Identifying Potential Positive Deviants Across Rice Producing Areas in Indonesia](https://www.unglobalpulse.org/document/identifying-potential-positive-deviants-pds-across-rice-producing-areas-in-indonesia-an-application-of-big-data-analytics-and-approaches/)
