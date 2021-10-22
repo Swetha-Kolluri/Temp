@@ -16,3 +16,11 @@
 - [How Can Climate Resilience Be Measured and Visualized?](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi84pXJ_dnzAhWTq6QKHfUhD5oQFnoECAQQAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2071-1050%2F12%2F2%2F635%2Fpdf&usg=AOvVaw0iQ3w9lKDK_f7isG_qUPZC)
 - [Monitoring and evaluation of climate resilience for agricultural development – A review of currently available tools](https://www.sciencedirect.com/science/article/pii/S2452292917300176)
 - [High-resolution spatial distribution and associated uncertainties of greenhouse gas emissions from the agricultural sector](https://link.springer.com/article/10.1007/s11027-017-9779-3)
+
+## Reference Platforms
+
+- [Hunger Map World Food Programme](https://hungermap.wfp.org)
+
+## Datasets
+
+- A new, long-term and global dataset of soil moisture measurements from space has been released to help us better understand the water cycle and climate, monitor agriculture and manage our water resources. Scientists working under the soil moisture project of ESA’s Climate Change Initiative have harmonised data on soil moisture from different satellites dating back to 1978 to give us a long-term view of global soil moisture, as well as variations and trends in the water cycle. Developed by the Vienna University of Technology (TU Wien), Dutch company VanderSat BV and the Austrian Earth Observation Data Centre, the dataset  is based on 11 satellite sensors, including the one on ESA’s SMOS satellite and ESA’s historical ERS missions. Starting next year, it will be made available in near-real time through the Copernicus Climate Change Service. Scientists worldwide can now download, use and validate the dataset by visiting http://www.esa-soilmoisture-cci.org/
